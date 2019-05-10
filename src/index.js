@@ -7,9 +7,9 @@ import "./style.scss";
 class App extends Component {
   render() {
     return (
-      <Fragment>
-        <Header />
-      </Fragment>
+      <div className="content">
+        <Header>RocketBook</Header>
+      </div>
     );
   }
 }

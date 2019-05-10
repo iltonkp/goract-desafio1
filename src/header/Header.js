@@ -1,5 +1,11 @@
 import React from "react";
 
-const Header = props => <h1>Teste Header</h1>;
+import "./style.scss";
+
+const Header = props => (
+  <header>
+    <span>{props.children}</span>
+  </header>
+);
 
 export default Header;
