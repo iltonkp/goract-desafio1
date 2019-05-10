@@ -1,9 +1,11 @@
-import React, { Component, Fragment } from "react";
-import { render } from "react-dom";
+import React, { Component } from 'react';
+import { render } from 'react-dom';
 
-import Header from "./header/Header";
+import Header from './header/Header';
 
-import "./style.scss";
+import './style.scss';
+
+// eslint-disable-next-line react/prefer-stateless-function
 class App extends Component {
   render() {
     return (
@@ -14,4 +16,4 @@ class App extends Component {
   }
 }
 
-render(<App />, document.getElementById("app"));
+render(<App />, document.getElementById('app'));
