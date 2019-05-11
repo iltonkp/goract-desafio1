@@ -6,7 +6,7 @@ import PostHeader from '../postHeader/PostHeader';
 const Post = props => (
   <div className="main-post">
     <PostHeader avatar={props.object.avatar} name={props.object.nome} hour={props.object.hora} />
-    <p>{props.object.conteudo}</p>
+    <span className="conteudo">{props.object.conteudo}</span>
   </div>
 );
 

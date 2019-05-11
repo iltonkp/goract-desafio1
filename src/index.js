@@ -16,7 +16,8 @@ class App extends Component {
         avatar:
           'https://avatars2.githubusercontent.com/u/22628987?s=400&u=83ba6e10e2139eb97bd3c1cdd2c5ef326e956ab5&v=4',
         hora: 'há 30 min',
-        conteudo: 'ajshdjashdahsdahsdçakshdçakhsdahsdahsdjashdakjsdhlajsdhalksjdhalksjdasndknasdna',
+        conteudo:
+          'Dá-se o nome de artigo às palavras que se antepõem aos substantivos para indicar se esses têm um sentido individual, já determinado pelo discurso ou pelas circunstâncias, chamados definidos, ou se os substantivos não são determinados, chamados indefinidos.',
       },
 
       {
@@ -25,7 +26,7 @@ class App extends Component {
         avatar: 'https://s3.portalt5.com.br/imagens/mayte-piragibe.jpg?mtime=20181024221256',
         hora: 'há 5 min',
         conteudo:
-          'eqweqgwhegqwjhegqjwhegqjwhgeqjhgweqkjhgweqjhwgeqjhwgeqkjhwgeqkhwgeqkjwhgeqhwgeqkhwgeqhgweqhgweqk',
+          'Dá-se o nome de artigo às palavras que se antepõem aos substantivos para indicar se esses têm um sentido individual, já determinado pelo discurso ou pelas circunstâncias, chamados definidos, ou se os substantivos não são determinados, chamados indefinidos.',
       },
 
       {
@@ -35,7 +36,7 @@ class App extends Component {
           'https://statig0.akamaized.net/bancodeimagens/bg/su/2w/bgsu2wguq9z7xj113ybtgj4hk.jpg',
         hora: 'há 1 dia',
         conteudo:
-          'vnvxcnvxbagdjagsdkajsgdajsgdajsgdaksjdgapsjdgasjgdasjdgpasjgdasjgdasjdgoajsgdajgdajsgdoajsgdoasjgd',
+          'Dá-se o nome de artigo às palavras que se antepõem aos substantivos para indicar se esses têm um sentido individual, já determinado pelo discurso ou pelas circunstâncias, chamados definidos, ou se os substantivos não são determinados, chamados indefinidos.',
       },
     ],
   };
