@@ -3,8 +3,6 @@ import PropTypes from 'prop-types';
 
 import PostHeader from '../postHeader/PostHeader';
 
-import './style.scss';
-
 const Post = props => (
   <div className="main-post">
     <PostHeader avatar={props.object.avatar} name={props.object.nome} hour={props.object.hora} />
